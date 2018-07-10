@@ -1,3 +1,12 @@
+Hey there!
+
+This repository is for me to showcase my tensorflow.js code.
+If you have any questions, please let me know via [email](fatyga.karol@gmail.com)
+
+1. [Linear regression](https://karolef.github.io/tensorflow.js/LinearRegression/)
+
+P.S. I will clean up this file later
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/karolef/tensorflow.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

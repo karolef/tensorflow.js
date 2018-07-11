@@ -5,6 +5,7 @@ This repository is for me to showcase my tensorflow.js code.
 If you have any questions, please let me know via email: fatyga.karol@gmail.com
 
 1. [Linear regression](https://karolef.github.io/tensorflow.js/LinearRegression/)
+2. [Polynomial regression](https://karolef.github.io/tensorflow.js/PolynomialRegression/)
 
 P.S. I will clean up this file later
 

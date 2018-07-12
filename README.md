@@ -1,6 +1,6 @@
 Hey there!
 
-This repository is for me to showcase my tensorflow.js code.
+This repository is for me to showcase my [tensorflow.js](https://js.tensorflow.org/api/0.10.0/) code.
 
 If you have any questions, please let me know via email: fatyga.karol@gmail.com
 
